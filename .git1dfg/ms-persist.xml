@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PendingCommit>
+  <CommitComment>projenin olusturulmasi, entitylerin ve context sınıfının  eklenmesi ve migration db nin oluşturulması, ilk controllerın oluşturulması.</CommitComment>
+  <PinnedBranches />
+  <PublishPrompt Enabled="True" />
+  <ActiveAccountPrompt Enabled="True" />
+  <RepositorySorts />
+</PendingCommit>
